@@ -264,6 +264,22 @@ local diff = {
 			},
 			["name"] = "Fire and Bleed Air Test Switch - TEST A",
 		},
+		["d3006pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49_OFF",
+				},
+			},
+			["name"] = "Generator TIE Control Switch - NORM",
+		},
+		["d3006pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Generator TIE Control Switch - RESET",
+		},
 		["d3007pnilu3007cd12vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

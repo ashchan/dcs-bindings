@@ -130,22 +130,6 @@ local diff = {
 			},
 			["name"] = "IR Cooling Switch - OFF",
 		},
-		["dnilp3001unilcd26vdnilvp-0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CCW/Decrease (Slow)",
-		},
-		["dnilp3001unilcd26vdnilvp0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CW/Increase (Slow)",
-		},
 		["dnilp3005unilcd32vdnilvp-0.3vunil"] = {
 			["added"] = {
 				[1] = {

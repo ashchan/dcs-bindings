@@ -130,6 +130,14 @@ local diff = {
 			},
 			["name"] = "FLAP Switch - HALF",
 		},
+		["d3007pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "FLAP Switch - AUTO",
+		},
 		["d3007pnilunilcd5vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -201,14 +209,6 @@ local diff = {
 				},
 			},
 			["name"] = "Launch Bar Control Switch - RETRACT",
-		},
-		["d3017pnilunilcd2vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN47",
-				},
-			},
-			["name"] = "FLAP Switch - Cycle",
 		},
 		["d3018pnilu3018cd40vd1vpnilvu0"] = {
 			["added"] = {
