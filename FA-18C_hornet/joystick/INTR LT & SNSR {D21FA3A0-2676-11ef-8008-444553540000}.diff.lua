@@ -131,6 +131,38 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilunilcd11vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Bleed Air Knob - L OFF",
+		},
+		["d3001pnilunilcd11vd0.2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Bleed Air Knob - NORM",
+		},
+		["d3001pnilunilcd11vd0.3vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Bleed Air Knob - R OFF",
+		},
+		["d3001pnilunilcd11vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Bleed Air Knob - OFF",
+		},
 		["d3001pnilunilcd42vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
