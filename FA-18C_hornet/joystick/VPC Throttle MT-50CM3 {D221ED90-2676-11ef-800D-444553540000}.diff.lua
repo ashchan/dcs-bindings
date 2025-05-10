@@ -504,6 +504,14 @@ local diff = {
 			},
 			["name"] = "Throttle (Right) - OFF(hold)<>IDLE",
 		},
+		["d851pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "Show controls indicator",
+		},
 		["dnilp3005unilcd8vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
