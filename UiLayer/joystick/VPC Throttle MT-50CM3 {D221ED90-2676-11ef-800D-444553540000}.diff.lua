@@ -16,14 +16,6 @@ local diff = {
 			},
 			["name"] = "Chat show/hide",
 		},
-		["d51pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN39",
-				},
-			},
-			["name"] = "End mission",
-		},
 		["d52pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
