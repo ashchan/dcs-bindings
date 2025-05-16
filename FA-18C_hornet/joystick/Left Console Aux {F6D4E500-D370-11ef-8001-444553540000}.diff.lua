@@ -97,7 +97,7 @@ local diff = {
 		["d3003pnilu3003cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN6_OFF",
 				},
 			},
 			["name"] = "FCS RESET Button",
