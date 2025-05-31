@@ -65,22 +65,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1731pnilu1731cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN73",
-				},
-			},
-			["name"] = "COMM Switch - COMM 1 (VOIP)",
-		},
-		["d1732pnilu1732cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN71",
-				},
-			},
-			["name"] = "COMM Switch - COMM 2 (VOIP)",
-		},
 		["d179pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -371,7 +355,7 @@ local diff = {
 		["d3027pnilu3027cd13vd0.2vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "COMM Switch - COMM 1 (call radio menu)",
@@ -379,26 +363,10 @@ local diff = {
 		["d3028pnilu3028cd13vd0.4vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "COMM Switch - COMM 2 (call radio menu)",
-		},
-		["d3029pnilu3029cd13vd0.6vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "COMM Switch - MIDS A",
-		},
-		["d3030pnilu3030cd13vd0.8vpnilvu0"] = {
-			["added"] = {
-				[1] = {
 					["key"] = "JOY_BTN18",
 				},
 			},
-			["name"] = "COMM Switch - MIDS B",
+			["name"] = "COMM Switch - COMM 2 (call radio menu)",
 		},
 		["d3031pnilu3031cd13vd1vpnilvu0"] = {
 			["added"] = {
