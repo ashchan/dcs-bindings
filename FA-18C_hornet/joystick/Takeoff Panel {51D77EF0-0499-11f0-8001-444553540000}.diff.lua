@@ -55,7 +55,7 @@ local diff = {
 		["d3004pnilunilcd5vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN33_OFF",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "Anti Skid Switch - OFF",
@@ -79,7 +79,7 @@ local diff = {
 		["d3004pnilunilcd8vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN48_OFF",
+					["key"] = "JOY_BTN19",
 				},
 			},
 			["name"] = "LDG/TAXI LIGHT Switch - ON",
@@ -122,10 +122,7 @@ local diff = {
 		["d3007pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN45_OFF",
-				},
-				[2] = {
-					["key"] = "JOY_BTN47_OFF",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "FLAP Switch - HALF",
@@ -205,7 +202,7 @@ local diff = {
 		["d3014pnilunilcd5vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN46_OFF",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Launch Bar Control Switch - RETRACT",
@@ -229,7 +226,7 @@ local diff = {
 		["d3025pnilunilcd9vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN49_OFF",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "HOOK BYPASS Switch - CARRIER",
@@ -237,7 +234,7 @@ local diff = {
 		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN42_OFF",
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "Landing Gear Control Handle - UP",
